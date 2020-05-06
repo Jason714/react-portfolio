@@ -1,0 +1,23 @@
+li.borderless {
+  border: 0 none;
+  background-color: rgb(255, 255, 255, 0.7);
+}
+
+.contact-area {
+  background-image: url("../images/claudio-schwarz.jpg");
+  background-size: cover;
+}
+
+.contact-container {
+  padding-top: 5em;
+  padding-bottom: 7em;
+  background-color: rgb(255, 255, 255, 0.2);
+}
+
+.contact-form {
+  background-color: rgb(255, 255, 255, 0.8);
+}
+
+.resume {
+  color: black;
+}

@@ -1,0 +1,20 @@
+.pic {
+    border-radius: 45%;
+    -moz-border-radius: 45%;
+    -webkit-border-radius: 45%;
+    width: 15em;
+}
+
+.about-page {
+    background-image: url("../../images/sunset.jpg");
+    background-size: cover;
+}
+
+.about-container {
+    background-color: transparent;
+}
+
+.brand-statement {
+    font-size: 1.2em;
+    color: white;
+}

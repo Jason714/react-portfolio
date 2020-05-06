@@ -1,0 +1,10 @@
+.project-page {
+  background-image: url(../images/robert-horvick.jpg);
+  background-size: cover;
+  margin-top: 0;
+}
+
+.project-container {
+  background-color: transparent;
+  padding-top: 0;
+}

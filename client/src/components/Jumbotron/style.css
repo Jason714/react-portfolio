@@ -1,0 +1,17 @@
+.bg-image {
+    background-image: url("../../images/laptop.jpg");
+    background-size: cover;
+    margin-bottom: 0;
+}
+
+.container {
+    background-color: rgb(255, 255, 255, 0.4);
+    border-radius: 1.5em;
+    padding: 2em;
+    color: black;
+}
+
+.icon-links {
+    color: black;
+    font-size: 2.4em;
+}
