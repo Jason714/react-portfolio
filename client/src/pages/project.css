@@ -7,4 +7,10 @@
 .project-container {
   background-color: transparent;
   padding-top: 0;
+  margin-left: 3em;
+  margin-right: 3em;
+}
+
+.header {
+  font-size: 3em;
 }

@@ -6,6 +6,7 @@ import Projects from "./pages/projects";
 import Contact from "./pages/contact";
 import Nav from "./components/Nav";
 import Footer from "./components/Footer";
+import "./app.css";
 
 function App() {
   return (

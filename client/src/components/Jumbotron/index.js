@@ -5,7 +5,7 @@ function Jumbotron() {
   return (
     <div
       style={{
-        height: 560,
+        height: 660,
         clear: "both",
         paddingTop: 120,
         textAlign: "center",
@@ -17,7 +17,9 @@ function Jumbotron() {
           <strong>Hello,</strong>
         </p>
         <h1 className="display-4 text-center">
-          <strong>I am Jason Blake.</strong>
+          <strong>
+            I am <span className="name">Jason Blake</span>.
+          </strong>
         </h1>
         <hr className="display-4"></hr>
         <p className="lead text-center">

@@ -8,8 +8,15 @@ class Card extends Component {
       <React.Fragment>
         {projectData.project.map((item) => {
           return (
-            <div key={item.name} className="card bg-dark text-white col-md-5">
-              <img src={item.image} className="card-img-top" alt={item.name} />
+            <div
+              key={item.name}
+              className="card text-white col-md-3 project-card"
+            >
+              <img
+                src={item.image}
+                className="card-img-top project-image"
+                alt={item.name}
+              />
               <div className="card-body text-center p-0">
                 <h5 className="card-title">{item.name}</h5>
                 <p className="card-text">{item.description}</p>

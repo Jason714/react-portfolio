@@ -6,7 +6,7 @@ const Contact = () => {
   return (
     <section
       style={{
-        height: 560,
+        height: 660,
         clear: "both",
       }}
       className="contact-area"

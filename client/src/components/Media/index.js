@@ -7,7 +7,7 @@ function Media() {
     <div className="about-page">
       <div
         style={{
-          height: 560,
+          height: 660,
           clear: "both",
           paddingTop: 80,
           textAlign: "center",
@@ -16,7 +16,7 @@ function Media() {
       >
         <div className="media">
           <div className="media-body">
-            <h3 className="mt-0 mb-1">About Me</h3>
+            <h3 className="mt-0 mb-1 header">About Me</h3>
             <hr className="display-4" />
             <p className="brand-statement">
               Web developer utilizing and extensive background in food &

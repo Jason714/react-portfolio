@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/static/media/book-search.46a47335.png"
   },
   {
-    "revision": "96649dceb218d94dd65f",
-    "url": "/static/css/main.62af1ec6.chunk.css"
+    "revision": "82fb61f2587a347f5512",
+    "url": "/static/css/main.ae4d7c5b.chunk.css"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "45f9d26b3d4d1245ef8c",
-    "url": "/static/js/2.016de0de.chunk.js"
+    "revision": "5dcbe8fa1875bbaadfe2",
+    "url": "/static/js/2.22de993d.chunk.js"
   },
   {
     "revision": "ac8b897c6807d1ed17057493946ff1d0",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/static/media/quiz-app-screenshot.74cf9f7d.png"
   },
   {
-    "revision": "96649dceb218d94dd65f",
-    "url": "/static/js/main.072d8170.chunk.js"
+    "revision": "82fb61f2587a347f5512",
+    "url": "/static/js/main.216e2f4a.chunk.js"
   },
   {
     "revision": "65e56be2e224dc822b9bc9ea53e3e15c",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/static/media/claudio-schwarz.0691cb63.jpg"
   },
   {
-    "revision": "72dca8fd6e072b13aff15c1349662f18",
+    "revision": "af9b734b3b871cb7758fbc43c7faf0c7",
     "url": "/index.html"
   }
 ];

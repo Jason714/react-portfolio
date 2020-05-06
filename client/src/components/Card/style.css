@@ -2,3 +2,13 @@
     margin: 0.3em;
     padding: 0;
 }
+
+.project-card {
+    background-color: #FDC88F;
+    border-radius: 2em;
+}
+
+.project-image {
+    border-top-left-radius: 2em;
+    border-top-right-radius: 2em;
+}

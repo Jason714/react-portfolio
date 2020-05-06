@@ -7,9 +7,9 @@ const Projects = () => {
   return (
     <React.Fragment>
       <div className="project-page">
-        <h3 className="text-center pt-4 header">Projects</h3>
+        <h2 className="text-center pt-4 header">Projects</h2>
         <hr />
-        <div className="container project-container">
+        <div className="project-container">
           <div className="row justify-content-md-center">
             <Card projectData={projectData} />
           </div>
